@@ -1,0 +1,11 @@
+C:\Users\vladi\source\repos\SnakeDescktop\SnakeDescktop\bin\Debug\SnakeDescktop.exe.config
+C:\Users\vladi\source\repos\SnakeDescktop\SnakeDescktop\bin\Debug\SnakeDescktop.exe
+C:\Users\vladi\source\repos\SnakeDescktop\SnakeDescktop\bin\Debug\SnakeDescktop.pdb
+C:\Users\vladi\source\repos\SnakeDescktop\SnakeDescktop\obj\Debug\SnakeDescktop.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\SnakeDescktop\SnakeDescktop\obj\Debug\SnakeDescktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladi\source\repos\SnakeDescktop\SnakeDescktop\obj\Debug\SnakeDescktop.Properties.Resources.resources
+C:\Users\vladi\source\repos\SnakeDescktop\SnakeDescktop\obj\Debug\SnakeDescktop.csproj.GenerateResource.cache
+C:\Users\vladi\source\repos\SnakeDescktop\SnakeDescktop\obj\Debug\SnakeDescktop.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\SnakeDescktop\SnakeDescktop\obj\Debug\SnakeDescktop.exe
+C:\Users\vladi\source\repos\SnakeDescktop\SnakeDescktop\obj\Debug\SnakeDescktop.pdb
+C:\Users\vladi\source\repos\SnakeDescktop\SnakeDescktop\obj\Debug\SnakeDescktop.Form1.resources
