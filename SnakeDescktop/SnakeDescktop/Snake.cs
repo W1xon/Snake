@@ -162,10 +162,6 @@ namespace SnakeDescktop
                         vectorY = 0;
                     }
                     break;
-                case Keys.Space:
-                    Append();
-                    break;
-
             }
         }
 
